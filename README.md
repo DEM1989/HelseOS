@@ -105,7 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Documentation](https://helse.readthedocs.io/)
 - [Discord Community](https://discord.gg/yourdiscord)
 - [Blog](https://helse.blog)
-- [Twitter](https://twitter.com/helse)
+- [Twitter](https://twitter.com/helseos)
 
 ## 💖 Support
 
@@ -113,13 +113,12 @@ If you find this project helpful, please consider:
 - Giving it a star ⭐
 - Contributing to the code 🛠️
 - Sharing it with others 📢
-- [Buying us a coffee ☕](https://buymeacoffee.com/helse)
+
 
 ## 📞 Contact
 
-- 📧 Email: support@helse.com
 - 💬 Discord: [Join our server](https://discord.gg/yourdiscord)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/helse/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/DEM1989)
 
 ## 🗺️ Roadmap
 
