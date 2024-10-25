@@ -1,4 +1,4 @@
-# Helse
+# HelseOS
 
 <p align="center">
   <img src="resources/logo.png" alt="Helse Logo" width="200"/>
