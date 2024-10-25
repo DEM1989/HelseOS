@@ -22,7 +22,7 @@
   </a>
 </p>
 
-Helse is an advanced command-line tool that harnesses the power of AI to streamline development workflows, automate documentation, and enhance productivity. Built with OpenAI's GPT models, it provides intelligent assistance for developers, writers, and system administrators.
+HelseOS Admin Assist is an advanced command-line tool that harnesses the power of AI to streamline development workflows, automate documentation, and enhance productivity. Built with OpenAI's GPT models, it provides intelligent assistance for developers, writers, and system administrators.
 
 ## ✨ Features
 
