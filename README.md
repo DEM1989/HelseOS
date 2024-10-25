@@ -1,28 +1,28 @@
-# Admin Assist CLI
+# Helse
 
 <p align="center">
-  <img src="resources/logo.png" alt="Admin Assist CLI Logo" width="200"/>
+  <img src="resources/logo.png" alt="Helse Logo" width="200"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/admin-assist-cli/blob/main/LICENSE">
+  <a href="https://github.com/yourusername/helse/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
   </a>
-  <a href="https://github.com/yourusername/admin-assist-cli/releases">
-    <img src="https://img.shields.io/github/v/release/yourusername/admin-assist-cli" alt="Release">
+  <a href="https://github.com/yourusername/helse/releases">
+    <img src="https://img.shields.io/github/v/release/yourusername/helse" alt="Release">
   </a>
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python">
   </a>
-  <a href="https://github.com/yourusername/admin-assist-cli/actions">
-    <img src="https://github.com/yourusername/admin-assist-cli/workflows/tests/badge.svg" alt="Tests">
+  <a href="https://github.com/yourusername/helse/actions">
+    <img src="https://github.com/yourusername/helse/workflows/tests/badge.svg" alt="Tests">
   </a>
-  <a href="https://codecov.io/gh/yourusername/admin-assist-cli">
-    <img src="https://codecov.io/gh/yourusername/admin-assist-cli/branch/main/graph/badge.svg" alt="Coverage">
+  <a href="https://codecov.io/gh/yourusername/helse">
+    <img src="https://codecov.io/gh/yourusername/helse/branch/main/graph/badge.svg" alt="Coverage">
   </a>
 </p>
 
-Admin Assist CLI is an advanced command-line tool that harnesses the power of AI to streamline development workflows, automate documentation, and enhance productivity. Built with OpenAI's GPT models, it provides intelligent assistance for developers, writers, and system administrators.
+Helse is an advanced command-line tool that harnesses the power of AI to streamline development workflows, automate documentation, and enhance productivity. Built with OpenAI's GPT models, it provides intelligent assistance for developers, writers, and system administrators.
 
 ## ✨ Features
 
@@ -102,10 +102,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Documentation](https://admin-assist-cli.readthedocs.io/)
+- [Documentation](https://helse.readthedocs.io/)
 - [Discord Community](https://discord.gg/yourdiscord)
-- [Blog](https://admin-assist-cli.blog)
-- [Twitter](https://twitter.com/adminassistcli)
+- [Blog](https://helse.blog)
+- [Twitter](https://twitter.com/helse)
 
 ## 💖 Support
 
@@ -113,13 +113,13 @@ If you find this project helpful, please consider:
 - Giving it a star ⭐
 - Contributing to the code 🛠️
 - Sharing it with others 📢
-- [Buying us a coffee ☕](https://buymeacoffee.com/adminassistcli)
+- [Buying us a coffee ☕](https://buymeacoffee.com/helse)
 
 ## 📞 Contact
 
-- 📧 Email: support@adminassistcli.com
+- 📧 Email: support@helse.com
 - 💬 Discord: [Join our server](https://discord.gg/yourdiscord)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/admin-assist-cli/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/helse/issues)
 
 ## 🗺️ Roadmap
 
@@ -128,3 +128,4 @@ If you find this project helpful, please consider:
 - [ ] Custom model fine-tuning
 - [ ] Collaborative features
 - [ ] Enterprise support
+
